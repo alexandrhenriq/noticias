@@ -130,7 +130,7 @@ main {
     padding: 1.5rem 1.1rem;
 }
 
-.margin-border {
+.margin-border-padding {
     border-bottom: 1px solid var(--gunmetal);
     margin-bottom: 1.75rem;
     padding-bottom: 1.75rem;
